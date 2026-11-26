@@ -30,20 +30,23 @@ Starting from a single SQLite database, the analysis runs through seven connecte
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/accidents_heatmap.png" alt="Accident counts by hour and day of week" style="max-width: 100%; height: auto;">
+      <img src="assets/accidents_heatmap.png" alt="Accident counts by hour and day of week" style="width: 470px; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/motorcycle_heatmap.png" alt="Motorcycle accidents by engine size, hour and day of week" style="max-width: 100%; height: auto;">
+      <img src="assets/pedestrian_heatmap.png" alt="Pedestrian casualties by hour and day of week" style="width: 470px; height: auto;">
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/pedestrian_heatmap.png" alt="Pedestrian casualties by hour and day of week" style="max-width: 100%; height: auto;">
+      <img src="assets/motorcycle_heatmap.png" alt="Motorcycle accidents by engine size, hour and day of week" style="max-width: 350px; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/policing_forecasts.png" alt="2019 weekly accident forecasts for West Yorkshire, Gwent and Tayside" style="max-width: 100%; height: auto;">
+      <img src="assets/policing_forecasts.png" alt="2019 weekly accident forecasts for West Yorkshire, Gwent and Tayside" style="max-width: 350px; height: auto;">
     </td>
   </tr>
 </table>
+
+*More visualisations are available in the `assets/` folder, including cluster diagnostics, the West Yorkshire cluster maps, the LSOA July forecast, and the remaining per-category heatmaps.*
+
 
 *More visualisations are available in the `assets/` folder, including cluster diagnostics, the West Yorkshire cluster maps, the LSOA July forecast, and the remaining per-category heatmaps.*
