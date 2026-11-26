@@ -4,7 +4,6 @@ A data-driven exploration of UK road accidents that reveals *when* and *where* c
 
 Built with Python and the **STATS20** accident dataset, this project combines time-series forecasting, association-rule mining, and geographic clustering to turn raw accident records into actionable road-safety insights.
 
----
 
 ## What This Project Does
 
@@ -18,8 +17,6 @@ Starting from a single SQLite database, the analysis runs through seven connecte
 - **Regional forecasting** — predicts weekly accident counts for three police forces (England, Wales, Scotland).
 - **Hyper-local forecasting** — forecasts daily accident counts for the 30 busiest LSOAs in West Yorkshire.
 
----
-
 ## Key Findings
 
 - **Timing.** The busiest accident windows are the morning (07–09) and late-afternoon (15–18) commute peaks, with **Friday** consistently the highest-count weekday.
@@ -27,8 +24,6 @@ Starting from a single SQLite database, the analysis runs through seven connecte
 - **Weather & road surface.** Wet/damp roads combined with rain and urban settings reliably produce *slight*-severity collisions rather than fatal ones.
 - **Hotspots.** Clustering confirms that accidents concentrate around cities — **Leeds** appears as a distinct cluster in every method.
 - **Forecasting.** Seasonal **SARIMAX** models track the weekly cycle better than a plain ARIMA baseline.
-
----
 
 ## Images
 
@@ -52,5 +47,3 @@ Starting from a single SQLite database, the analysis runs through seven connecte
 </table>
 
 *More visualisations are available in the `assets/` folder, including cluster diagnostics, the West Yorkshire cluster maps, the LSOA July forecast, and the remaining per-category heatmaps.*
-
----
