@@ -47,6 +47,3 @@ Starting from a single SQLite database, the analysis runs through seven connecte
 </table>
 
 *More visualisations are available in the `assets/` folder, including cluster diagnostics, the West Yorkshire cluster maps, the LSOA July forecast, and the remaining per-category heatmaps.*
-
-
-*More visualisations are available in the `assets/` folder, including cluster diagnostics, the West Yorkshire cluster maps, the LSOA July forecast, and the remaining per-category heatmaps.*
