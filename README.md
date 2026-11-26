@@ -30,15 +30,15 @@ Starting from a single SQLite database, the analysis runs through seven connecte
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/accidents_2018.png" alt="Accident counts by hour and day of week" style="max-width: 100%; height: auto;">
+      <img src="assets/accidents_heatmap.png" alt="Accident counts by hour and day of week" style="max-width: 100%; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/motorcycles_2018.png" alt="Motorcycle accidents by engine size, hour and day of week" style="max-width: 100%; height: auto;">
+      <img src="assets/motorcycles_heatmap.png" alt="Motorcycle accidents by engine size, hour and day of week" style="max-width: 100%; height: auto;">
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/pedestrians_2018.png" alt="Pedestrian casualties by hour and day of week" style="max-width: 100%; height: auto;">
+      <img src="assets/pedestrians_heatmap.png" alt="Pedestrian casualties by hour and day of week" style="max-width: 100%; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="assets/policing_forecasts.png" alt="2019 weekly accident forecasts for West Yorkshire, Gwent and Tayside" style="max-width: 100%; height: auto;">
