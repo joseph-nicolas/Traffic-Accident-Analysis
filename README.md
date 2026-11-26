@@ -1,4 +1,4 @@
-# UK Traffic Accident Analysis
+# Traffic Accident Analysis
 
 A data-driven exploration of UK road accidents that reveals *when* and *where* crashes happen, and uses statistical forecasting to help safety agencies target their resources where they matter most.
 
